@@ -1,6 +1,6 @@
 ## DESCRIPTION
 
-Asgard is a web-based tool for managing cloud-based applications and infrastructure.
+Asgard is a web-based tool for managing cloud-based applications and infrastructure
 
 ## BUILD STATUS
 
